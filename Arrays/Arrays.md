@@ -3,7 +3,8 @@
 - It has a fixed size
 - It stores data of same type
 - we cannot insert or delete elements in the array
-- We can access nos in `O(1)`
+- We can access elements in `O(1)`
+- We can change elements by assigning new value
 ```
 // Initialization
 int[] arr = {5,6,1,2,7,9};
