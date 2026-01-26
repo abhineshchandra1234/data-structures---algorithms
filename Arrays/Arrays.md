@@ -8,6 +8,9 @@
 // Initialization
 int[] arr = {5,6,1,2,7,9};
 int[] arr = new int[size];
+
+int[][] arr = {{1,2,3}, {4,5,6}, {7,8,9}};
+int[][] arr = new int[5][6];
 ```
 ### Methods
 - Arrays are object in java and inherit from Object class
