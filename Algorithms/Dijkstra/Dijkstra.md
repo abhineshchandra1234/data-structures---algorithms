@@ -1,3 +1,3 @@
 ### Sample problems
 - [3650. Minimum Cost Path with Edge Reversals](https://github.com/abhineshchandra1234/LeetCode_Solutions_Java/blob/587285c98721e1b5a90089d75b05e11e586f4dc1/leetcode%20solutions/3650.%20Minimum%20Cost%20Path%20with%20Edge%20Reversals/Solution.java#L30)
-- [2976. Minimum Cost to Convert String I] (https://leetcode.com/problems/minimum-cost-to-convert-string-i/solutions/5543985/very-easy-solution-with-explanation-by-a-gnoy/)
+- [2976. Minimum Cost to Convert String I](https://leetcode.com/problems/minimum-cost-to-convert-string-i/solutions/5543985/very-easy-solution-with-explanation-by-a-gnoy/)
