@@ -12,7 +12,12 @@
 - All the vertices in priority queue are rearranged when new vertices or its neighbors are added
 ### Space Complexity
 - `O(V+E)` 
-- distance array + priority queue for vertices and its neighbors 
+- distance array + priority queue for vertices and its neighbors
+### Internal structure
+- It will consist of graph created using adjacency list, which will have node-> node,weight for each edge
+- It will have min heap which will give next nearest node to source
+- It will have dist array to keep track of min distance of each node from source
+- It will apply BFS, to find shortest distances for all nodes
 ### Code
 ```java
 import java.util.ArrayList;
